@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    height: 100%;
+}
+
+main {
+    position: relative;
+}
+
+nav {
+    position: fixed;
+    left: 0px;
+    width: 18%;
+    border: lightyellow solid 10px;
+    padding: 10px;
+    box-sizing: border-box;
+    background-color: lightcoral;
+    color: azure;
+    height: 83%;
+}
+
+section p {
+    font-size: 15pt;
+}
+
+article {
+    margin-left: 20%;
+}
+
+footer {
+    position: fixed;
+    background-color: lightsalmon;
+    left:0px;
+    bottom: 0px;
+    height: 15%;
+}

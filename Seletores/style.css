@@ -1,0 +1,54 @@
+main {
+    width: 50%;
+    float: left;    
+}
+
+nav ul li {
+    display: inline;
+}
+
+aside {
+    width: 50%;
+    float: right;
+    background-color: lightgreen;
+    height: 800px;
+}
+
+p {
+    color: aqua;
+    font-weight: bold;
+    width: 50%;     
+}   
+
+.classe1 {
+    color: red;
+}
+
+#id1 {
+    color: green;
+}
+        
+/* span {
+    color:grey;
+    font-weight: lighter;
+} */
+
+.span1 {
+    color: hotpink;
+    font-size: 20pt;
+}
+
+.span2 {
+    color:khaki;
+    font-size: 10pt;
+    font-weight: lighter;
+}
+
+.prova100 {
+    background-color: lawngreen;
+    width: 10%;                 
+}
+
+.titlesecao {
+    background-color: lightcoral;
+}

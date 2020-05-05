@@ -1,0 +1,82 @@
+body {
+    margin: 0;
+}
+
+main {
+    max-width: 800px; 
+    margin: 0 auto; 
+}
+
+nav ul li {
+    display: none;
+    background-color: blue;
+    padding: 15px;
+    margin: 10px;
+    border: 2px solid gold;
+}
+
+footer {
+    background-color: indianred;
+    height: 100px;
+    position: fixed;
+    bottom: 0;    
+}
+
+.secao1 {
+    width: 500px;
+    margin: 20px auto;
+    background-color: green;
+    box-sizing: border-box;
+    position: relative;
+}
+
+.secao2 {
+    width: 200px;
+    margin: 20px auto;
+    padding: 50px;
+    border: 10px solid yellow;
+    background-color: grey;
+    box-sizing: border-box;
+    position: absolute;
+    top: -50px;
+    right: -50px;    
+}
+
+p {
+    color: aqua;
+    font-weight: bold;
+    width: 100%;     
+}   
+
+.classe1 {
+    color: red;
+}
+
+#id1 {
+    color: green;
+}
+        
+/* span {
+    color:grey;
+    font-weight: lighter;
+} */
+
+.span1 {
+    color: hotpink;
+    font-size: 20pt;
+}
+
+.span2 {
+    color:khaki;
+    font-size: 10pt;
+    font-weight: lighter;
+}
+
+.prova100 {
+    background-color: lawngreen;
+    width: 100%;                 
+}
+
+.titlesecao {
+    background-color: lightcoral;
+}
